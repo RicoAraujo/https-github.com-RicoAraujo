@@ -8,8 +8,3 @@
 ### Titulo 3
 #### Titulo 4
 ##### Titulo 5
-
-| cabeçalho 1 | cabeçalho 2 |
-| ----------- | ----------- |
-|  texto 1    |  texto 2    |
-|  texto 3    |  texto 4    |
