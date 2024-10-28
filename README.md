@@ -6,7 +6,7 @@
 
 Possui hobbies como games, música e atividade física 
 
-(![Meu status card](https://github-readme-stats.vercel.app/api?username=ricoaraujo&show_icons=true&theme=radical))
+![Meu status card](https://github-readme-stats.vercel.app/api?username=ricoaraujo&show_icons=true&theme=tokyonight)
 
 
 
