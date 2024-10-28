@@ -1,6 +1,6 @@
 ### Bem vindos, eu sou Ricardo ! :floppy_disk:
 
-[!][gif galaxia](https://tenor.com/pt-BR/view/mobileanimatedcom-gif-25763258)
+![gif galaxia](https://tenor.com/pt-BR/view/mobileanimatedcom-gif-25763258)
 
  Iniciante e antusiasta na área de tecnologia e programação
 
