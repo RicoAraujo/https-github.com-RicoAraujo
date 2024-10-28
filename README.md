@@ -6,7 +6,9 @@
 
 Possui hobbies como games, música e atividade física :video_game::headphones:
 
-
+| Cursos    | Certificados |
+|---------- |------------- |
+|Formação Lógica de Programação | [Certificado] (https://hermes.dio.me/certificates/ZHHIPPGC.pdf)
 
 
 Minhas tecnologias
