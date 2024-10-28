@@ -1,13 +1,13 @@
-### **Bem vindos, eu sou Ricardo !** :floppy_disk::sparkles:
+## **Bem vindos, eu sou Ricardo !** :floppy_disk::sparkles:
 --------------------------------------------------------------
 
 
-## **Iniciante e antusiasta na área de tecnologia e programação**
+### **Iniciante e antusiasta na área de tecnologia e programação**
 
 - Formado em relações internacionais
 - Aperfeiçoando meu conhecimento e aprendizado cade vez mais
--  _Sky's the limit_ :sparkles:
 - Tenho hobbies como games,musica e atividade física
+-  _Sky's the limit_ :sparkles:
 
 ------------------------------------------------------------------
 
@@ -28,10 +28,8 @@ Minhas tecnologias
           
 
 
-[![linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?ricoaraujo&layout=compact)]
+![linguagens usadas]!(https://github-readme-stats.vercel.app/api/top-langs/?username=ricoaraujo&layout=compact)
 
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" /> [Profile]https://www.linkedin.com/in/ricardo-fernandes-a774a1140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /> [Profile](https://www.linkedin.com/in/ricardo-fernandes-a774a1140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
