@@ -1,10 +1,10 @@
-### Hi there !
+### Oi, eu sou Ricardo ! :floppy_disk:
 
-![Texto da imagem](https://unsplash.com/pt-br/fotografias/lua-vermelha-durante-a-noite-wDifg5xc9Z4)
+![gif galaxia](https://pixabay.com/gifs/galaxy-universe-cosmos-sky-3468/)
 
 
 # Titulo
-## Titulo 2
+## Titulo
 ### Titulo 3
 #### Titulo 4
 ##### Titulo 5
