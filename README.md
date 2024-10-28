@@ -1,16 +1,20 @@
-### Bem vindos, eu sou Ricardo ! :floppy_disk:
+### **Bem vindos, eu sou Ricardo !** :floppy_disk::sparkles:
+--------------------------------------------------------------
 
-![gif galaxia](https://tenor.com/pt-BR/view/mobileanimatedcom-gif-25763258)
 
- Iniciante e antusiasta na área de tecnologia e programação
+## **Iniciante e antusiasta na área de tecnologia e programação**
 
-Possui hobbies como games, música e atividade física 
+- Formado em relações internacionais
+- Aperfeiçoando meu conhecimento e aprendizado cade vez mais
+-  _Sky's the limit_ :sparkles:
+- Tenho hobbies como games,musica e atividade física
+
+------------------------------------------------------------------
+
 
 ![Meu status card](https://github-readme-stats.vercel.app/api?username=ricoaraujo&show_icons=true&theme=tokyonight)
 
-
-
-
+---------------------------------------------------------------
 
 | Cursos    | Certificados |
 |---------- |------------- |
@@ -23,3 +27,11 @@ Minhas tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px" />
           
 
+
+[![linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?ricoaraujo&layout=compact)]
+
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" /> [Profile]https://www.linkedin.com/in/ricardo-fernandes-a774a1140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+          
