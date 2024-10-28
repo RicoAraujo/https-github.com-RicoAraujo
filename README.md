@@ -28,7 +28,7 @@ Minhas tecnologias
           
 
 
-![linguagens usadas]!(https://github-readme-stats.vercel.app/api/top-langs/?username=ricoaraujo&layout=compact)
+![linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricoaraujo&layout=compact)
 
 
 
